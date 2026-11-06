@@ -1,0 +1,17 @@
+[33mcommit 4f3c34702e46192b7bad3578506b868ad0e9dc8c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: goku <c9279971@gmail.com>
+Date:   Fri Nov 6 20:17:22 2026 +0545
+
+    Edit README.md and hello_world.text
+
+[33mcommit cf6933cba67cabbb179035a4afb1d349ba55173e[m
+Author: goku <c9279971@gmail.com>
+Date:   Fri Nov 6 19:57:58 2026 +0545
+
+    Add hello_world.txt
+
+[33mcommit 5195520b13d4fb20eb8e3b185abf30c130cb4591[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: peakolo-og <352940721+peakolo-og@users.noreply.github.com>
+Date:   Thu Nov 5 20:19:24 2026 +0545
+
+    Initial commit
